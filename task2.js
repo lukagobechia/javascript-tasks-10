@@ -24,6 +24,6 @@ function guessCorrectAnswer(str, a, b) {
   });
 }
 
-// Example usage
+
 guessCorrectAnswer("What is a minus b?", 5, 2);
 // guessCorrectAnswer("What is a plus b?", 5, 2);
